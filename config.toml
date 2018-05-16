@@ -4,6 +4,7 @@ tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
+publishDir  = "docs"
 canonifyURLS = true
 googleAnalytics = ""
 disqusShortname = "tomanistor"

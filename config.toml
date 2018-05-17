@@ -1,5 +1,4 @@
 title = "The Chain site"
-baseURL = "https://the-chain.github.io/The-Chain-Site"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"

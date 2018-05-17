@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://the-chain.github.io/The-Chain-Site/about/</loc>
+      <loc>/about/</loc>
       <lastmod>2017-06-27T17:39:21-07:00</lastmod>
     </url>
   
     <url>
-      <loc>https://the-chain.github.io/The-Chain-Site/</loc>
+      <loc>/</loc>
       <lastmod>2017-06-27T17:39:21-07:00</lastmod>
       <priority>0</priority>
     </url>

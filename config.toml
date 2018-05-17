@@ -7,13 +7,13 @@ theme = "osprey"
 publishDir  = "docs"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = "tomanistor"
+disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
     tagline = "The Chain Site"
     author = ""
-    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    description = ""
     logoBig = "/images/TheChain-logo.png"
     logoSmall = "/images/TheChain-logo.png"
     favicon = "/images/favicon.ico"
@@ -33,11 +33,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     ajaxFormspree = true
 
 [[menu.main]]
-    name = "Acerca"
+    name = "About"
     url  = "/#about"
     weight = 1
 [[menu.main]]
-    name = "Proyectos"
+    name = "Work"
     url  = "/#work"
     weight = 2
 [[menu.main]]
@@ -45,6 +45,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     url  = "/#blog"
     weight = 3
 [[menu.main]]
-    name = "Contacto"
+    name = "Contact"
     url  = "/#contact"
     weight = 4

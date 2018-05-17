@@ -3,7 +3,7 @@ date = "2017-06-27T17:39:21-07:00"
 draft = false
 +++
 
-## Bienvenido a The Chain
+## Welcome to The Chain
 
 To create an about section, generate an about.md file in your content folder by doing:
 

@@ -1,4 +1,4 @@
-title = "The Chain site"
+title = "The Chain"
 baseURL = "https://the-chain.github.io/The-Chain-Site"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
@@ -11,7 +11,7 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "The Chain Site"
+    tagline = "Blockchain & AI Solutions"
     author = ""
     description = ""
     logoBig = "/images/TheChain-logo.png"
@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     linkedin = "tomanistor"
     github = "the-chain"
     facebook = ""
-    email = ""
+    email = "art@wek.io"
     googleTagManager = ""
     highlightJS = true
     copyright = false

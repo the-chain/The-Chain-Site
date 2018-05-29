@@ -1,5 +1,7 @@
 title = "The Chain site"
-baseURL = "https://the-chain.github.io/The-Chain-Site"
+#baseURL = "https://the-chain.github.io/The-Chain-Site"
+#baseURL = "https://tomanistor.com"
+baseURL = "http://localhost:1313/The-Chain-Site"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"

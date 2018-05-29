@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-title = "The Chain site"
-#baseURL = "https://the-chain.github.io/The-Chain-Site"
-#baseURL = "https://tomanistor.com"
-baseURL = "http://localhost:1313/The-Chain-Site"
-=======
+
 title = "The Chain"
 baseURL = "https://the-chain.github.io/The-Chain-Site"
->>>>>>> 45a7155d17fe2924d5ae8c28fe9fc782d6263d32
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"

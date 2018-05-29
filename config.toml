@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 title = "The Chain site"
 #baseURL = "https://the-chain.github.io/The-Chain-Site"
 #baseURL = "https://tomanistor.com"
 baseURL = "http://localhost:1313/The-Chain-Site"
+=======
+title = "The Chain"
+baseURL = "https://the-chain.github.io/The-Chain-Site"
+>>>>>>> 45a7155d17fe2924d5ae8c28fe9fc782d6263d32
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
@@ -13,18 +18,18 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "The Chain Site"
+    tagline = "Blockchain & AI Solutions"
     author = ""
     description = ""
     logoBig = "/images/TheChain-logo.png"
     logoSmall = "/images/TheChain-logo.png"
     favicon = "/images/favicon.ico"
     opengraphImage = "/images/TheChain-logo.png"
-    twitter = "TomaNistor"
-    linkedin = "tomanistor"
+    twitter = "TheChain16"
+    linkedin = "https://www.linkedin.com/company/the-chain-tech/"
     github = "the-chain"
     facebook = ""
-    email = ""
+    email = "art@wek.io"
     googleTagManager = ""
     highlightJS = true
     copyright = false
@@ -32,7 +37,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     customCSS = true
     cacheBustCSS = false
     cacheBustJS = false
-    ajaxFormspree = true
+    ajaxFormspree = false
 
 [[menu.main]]
     name = "About"

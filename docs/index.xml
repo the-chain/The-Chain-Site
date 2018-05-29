@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Chain site</title>
+    <title>The Chain</title>
     <link>https://the-chain.github.io/The-Chain-Site/</link>
-    <description>Recent content on The Chain site</description>
+    <description>Recent content on The Chain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 27 Jun 2017 17:39:21 -0700</lastBuildDate>
@@ -17,25 +17,26 @@
       <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
       
       <guid>https://the-chain.github.io/The-Chain-Site/about/</guid>
-      <description>Welcome to The Chain To create an about section, generate an about.md file in your content folder by doing:
-$ hugo new about.md  Then add your own content to the markdown file. Everything in the file will be generated to show here on the home page.</description>
+      <description>The Chain Es una fabrica de software especializada en el desarrollo de aplicaciones, servicios y soluciones en&amp;nbsp;Blockchain e Inteligencia Artificial.
+Nuestro equipo esta conformado por Ingenieros de Software, Investigadores, Docentes y Asesores Especialistas en Fintech,&amp;nbsp; que trabajan de manera conjunta en todo el proceso de desarrollo.
+The Chain es el producto de una Alianza entre un grupo de empresas y profesionales, con amplia experiencia en el area de Fintechs, Mentoring, Incubadoras, Angel Investments y Desarrollo de Software.</description>
     </item>
     
     <item>
-      <title>Osprey</title>
-      <link>https://the-chain.github.io/The-Chain-Site/gallery/osprey/</link>
+      <title>finHack</title>
+      <link>https://the-chain.github.io/The-Chain-Site/gallery/finhack/</link>
       <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
       
-      <guid>https://the-chain.github.io/The-Chain-Site/gallery/osprey/</guid>
+      <guid>https://the-chain.github.io/The-Chain-Site/gallery/finhack/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://the-chain.github.io/The-Chain-Site/gallery/hugo/</link>
+      <title>Coinet</title>
+      <link>https://the-chain.github.io/The-Chain-Site/gallery/coinet/</link>
       <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
       
-      <guid>https://the-chain.github.io/The-Chain-Site/gallery/hugo/</guid>
+      <guid>https://the-chain.github.io/The-Chain-Site/gallery/coinet/</guid>
       <description></description>
     </item>
     

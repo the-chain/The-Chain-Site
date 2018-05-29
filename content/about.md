@@ -5,8 +5,8 @@ draft = false
 
 ## The Chain
 
-Es una fabrica de software especializada en el desarrollo de aplicaciones, servicios y soluciones en&nbsp;Blockchain.
+Es una fabrica de software especializada en el desarrollo de aplicaciones, servicios y soluciones en Blockchain e Inteligencia Artificial.
 
-Nuestro equipo esta conformado principalmente por Ingenieros de Software, Investigadores, Docentes y nuestros Asesores,&nbsp;los cuales de manera conjunta son los responables de todo el proceso de desarrollo.
+Nuestro equipo esta conformado por Ingenieros de Software, Investigadores, Docentes y Asesores en Tecnología Financiera, los cuales trabajan conjuntamente nuestros procesos de desarrollo.
 
-The Chain es el producto de una Alianza entre un grupo de empresas y profesionales, con amplia experiencia en el area de Fintechs, Mentoring, Incubadoras, Angel Investments y Desarrollo de Software.
+The Chain es el producto de una Alianza entre un grupo de empresas y profesionales, con amplia experiencia en el area de Fintechs, Mentoring, Incubadoras, Angel Investment y Desarrollo de Software.

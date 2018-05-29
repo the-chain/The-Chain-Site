@@ -31,7 +31,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     customCSS = true
     cacheBustCSS = false
     cacheBustJS = false
-    ajaxFormspree = false
+    ajaxFormspree = true
 
 [[menu.main]]
     name = "About"

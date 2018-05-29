@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on The Chain</title>
+    <link>https://the-chain.github.io/The-Chain-Site/blog/</link>
+    <description>Recent content in Blogs on The Chain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2018 20:54:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://the-chain.github.io/The-Chain-Site/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference: Applications of Blockchain Technology</title>
+      <link>https://the-chain.github.io/The-Chain-Site/blog/unikemia/</link>
+      <pubDate>Tue, 01 May 2018 20:54:48 -0400</pubDate>
+      
+      <guid>https://the-chain.github.io/The-Chain-Site/blog/unikemia/</guid>
+      <description>We&amp;rsquo;ll be presenting at Unikemia on May 9th, 2018 on applications of blockchain technology.
+https://unikemia.com/blockchain/</description>
+    </item>
+    
+  </channel>
+</rss>

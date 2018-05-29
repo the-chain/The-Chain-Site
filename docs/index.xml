@@ -6,10 +6,20 @@
     <description>Recent content on The Chain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Jun 2017 17:39:21 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 20:54:48 -0400</lastBuildDate>
     
 	<atom:link href="https://the-chain.github.io/The-Chain-Site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conference: Applications of Blockchain Technology</title>
+      <link>https://the-chain.github.io/The-Chain-Site/blog/unikemia/</link>
+      <pubDate>Tue, 01 May 2018 20:54:48 -0400</pubDate>
+      
+      <guid>https://the-chain.github.io/The-Chain-Site/blog/unikemia/</guid>
+      <description>We&amp;rsquo;ll be presenting at Unikemia on May 9th, 2018 on applications of blockchain technology.
+https://unikemia.com/blockchain/</description>
+    </item>
     
     <item>
       <title></title>
@@ -17,8 +27,8 @@
       <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
       
       <guid>https://the-chain.github.io/The-Chain-Site/about/</guid>
-      <description>The Chain Es una fabrica de software especializada en el desarrollo de aplicaciones, servicios y soluciones en&amp;nbsp;Blockchain e Inteligencia Artificial.
-Nuestro equipo esta conformado por Ingenieros de Software, Investigadores, Docentes y Asesores Especialistas en Fintech,&amp;nbsp; que trabajan de manera conjunta en todo el proceso de desarrollo.
+      <description>The Chain Es una fabrica de software especializada en el desarrollo de aplicaciones, servicios y soluciones en&amp;nbsp;Blockchain.
+Nuestro equipo esta conformado principalmente por Ingenieros de Software, Investigadores, Docentes y nuestros Asesores,&amp;nbsp;los cuales de manera conjunta son los responables de todo el proceso de desarrollo.
 The Chain es el producto de una Alianza entre un grupo de empresas y profesionales, con amplia experiencia en el area de Fintechs, Mentoring, Incubadoras, Angel Investments y Desarrollo de Software.</description>
     </item>
     

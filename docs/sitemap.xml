@@ -2,15 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-      <loc>https://the-chain.github.io/The-Chain-Site/about/</loc>
-      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
-    </url>
+  <url>
+    <loc>https://the-chain.github.io/The-Chain-Site/blog/unikemia/</loc>
+    <lastmod>2018-05-01T20:54:48-04:00</lastmod>
+  </url>
   
-    <url>
-      <loc>https://the-chain.github.io/The-Chain-Site/</loc>
-      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>https://the-chain.github.io/The-Chain-Site/about/</loc>
+    <lastmod>2017-06-27T17:39:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-chain.github.io/The-Chain-Site/gallery/finhack/</loc>
+    <lastmod>2017-05-15T22:25:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-chain.github.io/The-Chain-Site/gallery/coinet/</loc>
+    <lastmod>2017-05-15T21:57:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-chain.github.io/The-Chain-Site/blog/</loc>
+    <lastmod>2018-05-01T20:54:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://the-chain.github.io/The-Chain-Site/gallery/</loc>
+    <lastmod>2017-05-15T22:25:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://the-chain.github.io/The-Chain-Site/</loc>
+    <lastmod>2018-05-01T20:54:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
 </urlset>
